@@ -1,0 +1,1177 @@
+[
+    {
+        "id": 1,
+        "time": "2024-04-02T18:15:12.516953Z",
+        "temperature": "68",
+        "relative": "76",
+        "humidity": "77",
+        "pressure": "65",
+        "altitude": "10",
+        "oxygen": "36",
+        "level": "36"
+    },
+    {
+        "id": 2,
+        "time": "2024-04-02T18:15:12.520016Z",
+        "temperature": "48",
+        "relative": "30",
+        "humidity": "69",
+        "pressure": "34",
+        "altitude": "86",
+        "oxygen": "85",
+        "level": "89"
+    },
+    {
+        "id": 3,
+        "time": "2024-04-02T18:15:12.522265Z",
+        "temperature": "35",
+        "relative": "52",
+        "humidity": "56",
+        "pressure": "58",
+        "altitude": "19",
+        "oxygen": "85",
+        "level": "74"
+    },
+    {
+        "id": 4,
+        "time": "2024-04-02T18:15:12.524484Z",
+        "temperature": "37",
+        "relative": "15",
+        "humidity": "47",
+        "pressure": "35",
+        "altitude": "27",
+        "oxygen": "69",
+        "level": "46"
+    },
+    {
+        "id": 5,
+        "time": "2024-04-02T18:15:12.526416Z",
+        "temperature": "14",
+        "relative": "85",
+        "humidity": "14",
+        "pressure": "11",
+        "altitude": "24",
+        "oxygen": "92",
+        "level": "27"
+    },
+    {
+        "id": 6,
+        "time": "2024-04-02T18:15:12.528321Z",
+        "temperature": "19",
+        "relative": "87",
+        "humidity": "74",
+        "pressure": "81",
+        "altitude": "17",
+        "oxygen": "40",
+        "level": "45"
+    },
+    {
+        "id": 7,
+        "time": "2024-04-02T18:15:12.530178Z",
+        "temperature": "33",
+        "relative": "10",
+        "humidity": "21",
+        "pressure": "52",
+        "altitude": "33",
+        "oxygen": "49",
+        "level": "54"
+    },
+    {
+        "id": 8,
+        "time": "2024-04-02T18:15:12.531968Z",
+        "temperature": "91",
+        "relative": "74",
+        "humidity": "26",
+        "pressure": "71",
+        "altitude": "26",
+        "oxygen": "71",
+        "level": "92"
+    },
+    {
+        "id": 9,
+        "time": "2024-04-02T18:15:12.533752Z",
+        "temperature": "76",
+        "relative": "13",
+        "humidity": "24",
+        "pressure": "69",
+        "altitude": "77",
+        "oxygen": "6",
+        "level": "48"
+    },
+    {
+        "id": 10,
+        "time": "2024-04-02T18:15:12.535448Z",
+        "temperature": "73",
+        "relative": "33",
+        "humidity": "3",
+        "pressure": "77",
+        "altitude": "51",
+        "oxygen": "79",
+        "level": "11"
+    },
+    {
+        "id": 11,
+        "time": "2024-04-02T18:15:12.537057Z",
+        "temperature": "90",
+        "relative": "5",
+        "humidity": "58",
+        "pressure": "41",
+        "altitude": "77",
+        "oxygen": "75",
+        "level": "78"
+    },
+    {
+        "id": 12,
+        "time": "2024-04-02T18:15:12.538722Z",
+        "temperature": "60",
+        "relative": "62",
+        "humidity": "7",
+        "pressure": "61",
+        "altitude": "60",
+        "oxygen": "95",
+        "level": "7"
+    },
+    {
+        "id": 13,
+        "time": "2024-04-02T18:15:12.540380Z",
+        "temperature": "47",
+        "relative": "53",
+        "humidity": "32",
+        "pressure": "95",
+        "altitude": "88",
+        "oxygen": "59",
+        "level": "38"
+    },
+    {
+        "id": 14,
+        "time": "2024-04-02T18:15:12.541976Z",
+        "temperature": "58",
+        "relative": "21",
+        "humidity": "22",
+        "pressure": "85",
+        "altitude": "21",
+        "oxygen": "90",
+        "level": "30"
+    },
+    {
+        "id": 15,
+        "time": "2024-04-02T18:15:12.543509Z",
+        "temperature": "52",
+        "relative": "33",
+        "humidity": "50",
+        "pressure": "44",
+        "altitude": "67",
+        "oxygen": "47",
+        "level": "41"
+    },
+    {
+        "id": 16,
+        "time": "2024-04-02T18:15:12.545009Z",
+        "temperature": "69",
+        "relative": "45",
+        "humidity": "39",
+        "pressure": "62",
+        "altitude": "49",
+        "oxygen": "42",
+        "level": "81"
+    },
+    {
+        "id": 17,
+        "time": "2024-04-02T18:15:12.546416Z",
+        "temperature": "4",
+        "relative": "63",
+        "humidity": "49",
+        "pressure": "93",
+        "altitude": "48",
+        "oxygen": "23",
+        "level": "17"
+    },
+    {
+        "id": 18,
+        "time": "2024-04-02T18:15:12.547859Z",
+        "temperature": "85",
+        "relative": "88",
+        "humidity": "90",
+        "pressure": "34",
+        "altitude": "38",
+        "oxygen": "65",
+        "level": "95"
+    },
+    {
+        "id": 19,
+        "time": "2024-04-02T18:15:12.549428Z",
+        "temperature": "14",
+        "relative": "4",
+        "humidity": "21",
+        "pressure": "99",
+        "altitude": "8",
+        "oxygen": "86",
+        "level": "15"
+    },
+    {
+        "id": 20,
+        "time": "2024-04-02T18:15:12.551138Z",
+        "temperature": "10",
+        "relative": "77",
+        "humidity": "24",
+        "pressure": "26",
+        "altitude": "72",
+        "oxygen": "55",
+        "level": "59"
+    },
+    {
+        "id": 21,
+        "time": "2024-04-02T18:15:12.552640Z",
+        "temperature": "13",
+        "relative": "95",
+        "humidity": "65",
+        "pressure": "38",
+        "altitude": "34",
+        "oxygen": "86",
+        "level": "0"
+    },
+    {
+        "id": 22,
+        "time": "2024-04-02T18:15:12.554120Z",
+        "temperature": "58",
+        "relative": "2",
+        "humidity": "4",
+        "pressure": "29",
+        "altitude": "93",
+        "oxygen": "85",
+        "level": "51"
+    },
+    {
+        "id": 23,
+        "time": "2024-04-02T18:15:12.555489Z",
+        "temperature": "40",
+        "relative": "30",
+        "humidity": "97",
+        "pressure": "82",
+        "altitude": "31",
+        "oxygen": "42",
+        "level": "75"
+    },
+    {
+        "id": 24,
+        "time": "2024-04-02T18:15:12.557023Z",
+        "temperature": "30",
+        "relative": "3",
+        "humidity": "25",
+        "pressure": "75",
+        "altitude": "25",
+        "oxygen": "89",
+        "level": "61"
+    },
+    {
+        "id": 25,
+        "time": "2024-04-02T18:15:12.558535Z",
+        "temperature": "80",
+        "relative": "40",
+        "humidity": "71",
+        "pressure": "43",
+        "altitude": "48",
+        "oxygen": "56",
+        "level": "30"
+    },
+    {
+        "id": 26,
+        "time": "2024-04-02T18:15:12.560176Z",
+        "temperature": "76",
+        "relative": "57",
+        "humidity": "45",
+        "pressure": "94",
+        "altitude": "8",
+        "oxygen": "39",
+        "level": "58"
+    },
+    {
+        "id": 27,
+        "time": "2024-04-02T18:15:12.561770Z",
+        "temperature": "53",
+        "relative": "82",
+        "humidity": "50",
+        "pressure": "29",
+        "altitude": "89",
+        "oxygen": "82",
+        "level": "96"
+    },
+    {
+        "id": 28,
+        "time": "2024-04-02T18:15:12.563255Z",
+        "temperature": "24",
+        "relative": "4",
+        "humidity": "95",
+        "pressure": "23",
+        "altitude": "54",
+        "oxygen": "92",
+        "level": "14"
+    },
+    {
+        "id": 29,
+        "time": "2024-04-02T18:15:12.564894Z",
+        "temperature": "25",
+        "relative": "37",
+        "humidity": "36",
+        "pressure": "92",
+        "altitude": "97",
+        "oxygen": "3",
+        "level": "15"
+    },
+    {
+        "id": 30,
+        "time": "2024-04-02T18:15:12.566395Z",
+        "temperature": "86",
+        "relative": "66",
+        "humidity": "98",
+        "pressure": "80",
+        "altitude": "76",
+        "oxygen": "5",
+        "level": "61"
+    },
+    {
+        "id": 31,
+        "time": "2024-04-02T18:15:12.568143Z",
+        "temperature": "24",
+        "relative": "42",
+        "humidity": "23",
+        "pressure": "42",
+        "altitude": "63",
+        "oxygen": "98",
+        "level": "68"
+    },
+    {
+        "id": 32,
+        "time": "2024-04-02T18:15:12.569638Z",
+        "temperature": "75",
+        "relative": "16",
+        "humidity": "72",
+        "pressure": "62",
+        "altitude": "45",
+        "oxygen": "9",
+        "level": "39"
+    },
+    {
+        "id": 33,
+        "time": "2024-04-02T18:15:12.571579Z",
+        "temperature": "80",
+        "relative": "72",
+        "humidity": "42",
+        "pressure": "24",
+        "altitude": "99",
+        "oxygen": "92",
+        "level": "54"
+    },
+    {
+        "id": 34,
+        "time": "2024-04-02T18:15:12.573029Z",
+        "temperature": "52",
+        "relative": "2",
+        "humidity": "13",
+        "pressure": "89",
+        "altitude": "31",
+        "oxygen": "68",
+        "level": "50"
+    },
+    {
+        "id": 35,
+        "time": "2024-04-02T18:15:12.574511Z",
+        "temperature": "14",
+        "relative": "8",
+        "humidity": "26",
+        "pressure": "24",
+        "altitude": "43",
+        "oxygen": "53",
+        "level": "16"
+    },
+    {
+        "id": 36,
+        "time": "2024-04-02T18:15:12.575911Z",
+        "temperature": "22",
+        "relative": "47",
+        "humidity": "17",
+        "pressure": "37",
+        "altitude": "74",
+        "oxygen": "19",
+        "level": "99"
+    },
+    {
+        "id": 37,
+        "time": "2024-04-02T18:15:12.577398Z",
+        "temperature": "39",
+        "relative": "97",
+        "humidity": "74",
+        "pressure": "42",
+        "altitude": "60",
+        "oxygen": "1",
+        "level": "91"
+    },
+    {
+        "id": 38,
+        "time": "2024-04-02T18:15:12.578843Z",
+        "temperature": "19",
+        "relative": "66",
+        "humidity": "43",
+        "pressure": "96",
+        "altitude": "22",
+        "oxygen": "29",
+        "level": "58"
+    },
+    {
+        "id": 39,
+        "time": "2024-04-02T18:15:12.580448Z",
+        "temperature": "77",
+        "relative": "74",
+        "humidity": "65",
+        "pressure": "22",
+        "altitude": "53",
+        "oxygen": "6",
+        "level": "52"
+    },
+    {
+        "id": 40,
+        "time": "2024-04-02T18:15:12.581925Z",
+        "temperature": "89",
+        "relative": "59",
+        "humidity": "55",
+        "pressure": "93",
+        "altitude": "15",
+        "oxygen": "46",
+        "level": "48"
+    },
+    {
+        "id": 41,
+        "time": "2024-04-02T18:15:12.583448Z",
+        "temperature": "93",
+        "relative": "57",
+        "humidity": "89",
+        "pressure": "39",
+        "altitude": "70",
+        "oxygen": "56",
+        "level": "10"
+    },
+    {
+        "id": 42,
+        "time": "2024-04-02T18:15:12.584897Z",
+        "temperature": "3",
+        "relative": "48",
+        "humidity": "97",
+        "pressure": "89",
+        "altitude": "58",
+        "oxygen": "3",
+        "level": "41"
+    },
+    {
+        "id": 43,
+        "time": "2024-04-02T18:15:12.586337Z",
+        "temperature": "61",
+        "relative": "40",
+        "humidity": "85",
+        "pressure": "68",
+        "altitude": "94",
+        "oxygen": "70",
+        "level": "47"
+    },
+    {
+        "id": 44,
+        "time": "2024-04-02T18:15:12.587789Z",
+        "temperature": "22",
+        "relative": "62",
+        "humidity": "36",
+        "pressure": "72",
+        "altitude": "44",
+        "oxygen": "71",
+        "level": "65"
+    },
+    {
+        "id": 45,
+        "time": "2024-04-02T18:15:12.589176Z",
+        "temperature": "96",
+        "relative": "78",
+        "humidity": "88",
+        "pressure": "33",
+        "altitude": "0",
+        "oxygen": "81",
+        "level": "95"
+    },
+    {
+        "id": 46,
+        "time": "2024-04-02T18:15:12.590764Z",
+        "temperature": "55",
+        "relative": "65",
+        "humidity": "18",
+        "pressure": "54",
+        "altitude": "51",
+        "oxygen": "88",
+        "level": "27"
+    },
+    {
+        "id": 47,
+        "time": "2024-04-02T18:15:12.592330Z",
+        "temperature": "64",
+        "relative": "62",
+        "humidity": "72",
+        "pressure": "10",
+        "altitude": "54",
+        "oxygen": "60",
+        "level": "14"
+    },
+    {
+        "id": 48,
+        "time": "2024-04-02T18:15:12.593918Z",
+        "temperature": "28",
+        "relative": "30",
+        "humidity": "91",
+        "pressure": "54",
+        "altitude": "57",
+        "oxygen": "61",
+        "level": "68"
+    },
+    {
+        "id": 49,
+        "time": "2024-04-02T18:15:12.595497Z",
+        "temperature": "38",
+        "relative": "70",
+        "humidity": "7",
+        "pressure": "37",
+        "altitude": "48",
+        "oxygen": "54",
+        "level": "60"
+    },
+    {
+        "id": 50,
+        "time": "2024-04-02T18:15:12.597384Z",
+        "temperature": "69",
+        "relative": "2",
+        "humidity": "10",
+        "pressure": "51",
+        "altitude": "24",
+        "oxygen": "39",
+        "level": "50"
+    },
+    {
+        "id": 51,
+        "time": "2024-04-02T18:15:12.599045Z",
+        "temperature": "47",
+        "relative": "70",
+        "humidity": "81",
+        "pressure": "95",
+        "altitude": "4",
+        "oxygen": "75",
+        "level": "62"
+    },
+    {
+        "id": 52,
+        "time": "2024-04-02T18:15:12.600844Z",
+        "temperature": "48",
+        "relative": "79",
+        "humidity": "58",
+        "pressure": "99",
+        "altitude": "75",
+        "oxygen": "97",
+        "level": "9"
+    },
+    {
+        "id": 53,
+        "time": "2024-04-02T18:15:12.602812Z",
+        "temperature": "59",
+        "relative": "50",
+        "humidity": "34",
+        "pressure": "53",
+        "altitude": "95",
+        "oxygen": "47",
+        "level": "87"
+    },
+    {
+        "id": 54,
+        "time": "2024-04-02T18:15:12.604477Z",
+        "temperature": "92",
+        "relative": "10",
+        "humidity": "98",
+        "pressure": "79",
+        "altitude": "2",
+        "oxygen": "7",
+        "level": "52"
+    },
+    {
+        "id": 55,
+        "time": "2024-04-02T18:15:12.605958Z",
+        "temperature": "99",
+        "relative": "2",
+        "humidity": "31",
+        "pressure": "27",
+        "altitude": "98",
+        "oxygen": "48",
+        "level": "4"
+    },
+    {
+        "id": 56,
+        "time": "2024-04-02T18:15:12.607380Z",
+        "temperature": "70",
+        "relative": "23",
+        "humidity": "64",
+        "pressure": "43",
+        "altitude": "88",
+        "oxygen": "1",
+        "level": "95"
+    },
+    {
+        "id": 57,
+        "time": "2024-04-02T18:15:12.608850Z",
+        "temperature": "23",
+        "relative": "97",
+        "humidity": "25",
+        "pressure": "83",
+        "altitude": "97",
+        "oxygen": "92",
+        "level": "91"
+    },
+    {
+        "id": 58,
+        "time": "2024-04-02T18:15:12.610671Z",
+        "temperature": "56",
+        "relative": "84",
+        "humidity": "88",
+        "pressure": "63",
+        "altitude": "47",
+        "oxygen": "24",
+        "level": "32"
+    },
+    {
+        "id": 59,
+        "time": "2024-04-02T18:15:12.612179Z",
+        "temperature": "93",
+        "relative": "13",
+        "humidity": "37",
+        "pressure": "66",
+        "altitude": "81",
+        "oxygen": "96",
+        "level": "19"
+    },
+    {
+        "id": 60,
+        "time": "2024-04-02T18:15:12.613865Z",
+        "temperature": "59",
+        "relative": "41",
+        "humidity": "37",
+        "pressure": "79",
+        "altitude": "29",
+        "oxygen": "16",
+        "level": "4"
+    },
+    {
+        "id": 61,
+        "time": "2024-04-02T18:15:12.615340Z",
+        "temperature": "63",
+        "relative": "49",
+        "humidity": "88",
+        "pressure": "59",
+        "altitude": "89",
+        "oxygen": "13",
+        "level": "95"
+    },
+    {
+        "id": 62,
+        "time": "2024-04-02T18:15:12.617079Z",
+        "temperature": "93",
+        "relative": "9",
+        "humidity": "97",
+        "pressure": "20",
+        "altitude": "18",
+        "oxygen": "90",
+        "level": "88"
+    },
+    {
+        "id": 63,
+        "time": "2024-04-02T18:15:12.618631Z",
+        "temperature": "34",
+        "relative": "85",
+        "humidity": "7",
+        "pressure": "66",
+        "altitude": "68",
+        "oxygen": "25",
+        "level": "76"
+    },
+    {
+        "id": 64,
+        "time": "2024-04-02T18:15:12.620932Z",
+        "temperature": "3",
+        "relative": "73",
+        "humidity": "9",
+        "pressure": "2",
+        "altitude": "59",
+        "oxygen": "72",
+        "level": "45"
+    },
+    {
+        "id": 65,
+        "time": "2024-04-02T18:15:12.622838Z",
+        "temperature": "84",
+        "relative": "96",
+        "humidity": "75",
+        "pressure": "77",
+        "altitude": "43",
+        "oxygen": "39",
+        "level": "52"
+    },
+    {
+        "id": 66,
+        "time": "2024-04-02T18:15:12.624692Z",
+        "temperature": "49",
+        "relative": "85",
+        "humidity": "26",
+        "pressure": "1",
+        "altitude": "83",
+        "oxygen": "8",
+        "level": "65"
+    },
+    {
+        "id": 67,
+        "time": "2024-04-02T18:15:12.626519Z",
+        "temperature": "97",
+        "relative": "62",
+        "humidity": "79",
+        "pressure": "81",
+        "altitude": "69",
+        "oxygen": "15",
+        "level": "92"
+    },
+    {
+        "id": 68,
+        "time": "2024-04-02T18:15:12.628134Z",
+        "temperature": "75",
+        "relative": "63",
+        "humidity": "34",
+        "pressure": "86",
+        "altitude": "58",
+        "oxygen": "68",
+        "level": "48"
+    },
+    {
+        "id": 69,
+        "time": "2024-04-02T18:15:12.629571Z",
+        "temperature": "23",
+        "relative": "99",
+        "humidity": "74",
+        "pressure": "1",
+        "altitude": "27",
+        "oxygen": "89",
+        "level": "46"
+    },
+    {
+        "id": 70,
+        "time": "2024-04-02T18:15:12.631244Z",
+        "temperature": "98",
+        "relative": "91",
+        "humidity": "82",
+        "pressure": "44",
+        "altitude": "59",
+        "oxygen": "92",
+        "level": "65"
+    },
+    {
+        "id": 71,
+        "time": "2024-04-02T18:15:12.632692Z",
+        "temperature": "73",
+        "relative": "13",
+        "humidity": "91",
+        "pressure": "35",
+        "altitude": "98",
+        "oxygen": "21",
+        "level": "31"
+    },
+    {
+        "id": 72,
+        "time": "2024-04-02T18:15:12.634116Z",
+        "temperature": "11",
+        "relative": "16",
+        "humidity": "41",
+        "pressure": "78",
+        "altitude": "82",
+        "oxygen": "36",
+        "level": "83"
+    },
+    {
+        "id": 73,
+        "time": "2024-04-02T18:15:12.635548Z",
+        "temperature": "47",
+        "relative": "13",
+        "humidity": "59",
+        "pressure": "93",
+        "altitude": "21",
+        "oxygen": "62",
+        "level": "20"
+    },
+    {
+        "id": 74,
+        "time": "2024-04-02T18:15:12.636968Z",
+        "temperature": "42",
+        "relative": "37",
+        "humidity": "97",
+        "pressure": "7",
+        "altitude": "63",
+        "oxygen": "18",
+        "level": "20"
+    },
+    {
+        "id": 75,
+        "time": "2024-04-02T18:15:12.638492Z",
+        "temperature": "72",
+        "relative": "65",
+        "humidity": "44",
+        "pressure": "71",
+        "altitude": "78",
+        "oxygen": "72",
+        "level": "8"
+    },
+    {
+        "id": 76,
+        "time": "2024-04-02T18:15:12.640117Z",
+        "temperature": "72",
+        "relative": "54",
+        "humidity": "18",
+        "pressure": "83",
+        "altitude": "60",
+        "oxygen": "66",
+        "level": "38"
+    },
+    {
+        "id": 77,
+        "time": "2024-04-02T18:15:12.641717Z",
+        "temperature": "97",
+        "relative": "85",
+        "humidity": "6",
+        "pressure": "88",
+        "altitude": "30",
+        "oxygen": "21",
+        "level": "72"
+    },
+    {
+        "id": 78,
+        "time": "2024-04-02T18:15:12.643173Z",
+        "temperature": "2",
+        "relative": "1",
+        "humidity": "72",
+        "pressure": "49",
+        "altitude": "93",
+        "oxygen": "32",
+        "level": "58"
+    },
+    {
+        "id": 79,
+        "time": "2024-04-02T18:15:12.644636Z",
+        "temperature": "9",
+        "relative": "95",
+        "humidity": "95",
+        "pressure": "41",
+        "altitude": "30",
+        "oxygen": "59",
+        "level": "68"
+    },
+    {
+        "id": 80,
+        "time": "2024-04-02T18:15:12.646328Z",
+        "temperature": "20",
+        "relative": "35",
+        "humidity": "21",
+        "pressure": "44",
+        "altitude": "17",
+        "oxygen": "31",
+        "level": "70"
+    },
+    {
+        "id": 81,
+        "time": "2024-04-02T18:15:12.648098Z",
+        "temperature": "81",
+        "relative": "13",
+        "humidity": "81",
+        "pressure": "24",
+        "altitude": "72",
+        "oxygen": "99",
+        "level": "92"
+    },
+    {
+        "id": 82,
+        "time": "2024-04-02T18:15:12.649643Z",
+        "temperature": "58",
+        "relative": "5",
+        "humidity": "19",
+        "pressure": "98",
+        "altitude": "50",
+        "oxygen": "9",
+        "level": "33"
+    },
+    {
+        "id": 83,
+        "time": "2024-04-02T18:15:12.651247Z",
+        "temperature": "47",
+        "relative": "77",
+        "humidity": "60",
+        "pressure": "65",
+        "altitude": "60",
+        "oxygen": "59",
+        "level": "93"
+    },
+    {
+        "id": 84,
+        "time": "2024-04-02T18:15:12.653499Z",
+        "temperature": "66",
+        "relative": "48",
+        "humidity": "30",
+        "pressure": "43",
+        "altitude": "11",
+        "oxygen": "2",
+        "level": "36"
+    },
+    {
+        "id": 85,
+        "time": "2024-04-02T18:15:12.655089Z",
+        "temperature": "81",
+        "relative": "62",
+        "humidity": "20",
+        "pressure": "12",
+        "altitude": "8",
+        "oxygen": "62",
+        "level": "89"
+    },
+    {
+        "id": 86,
+        "time": "2024-04-02T18:15:12.656640Z",
+        "temperature": "6",
+        "relative": "42",
+        "humidity": "70",
+        "pressure": "48",
+        "altitude": "99",
+        "oxygen": "61",
+        "level": "47"
+    },
+    {
+        "id": 87,
+        "time": "2024-04-02T18:15:12.658112Z",
+        "temperature": "14",
+        "relative": "90",
+        "humidity": "68",
+        "pressure": "97",
+        "altitude": "50",
+        "oxygen": "2",
+        "level": "97"
+    },
+    {
+        "id": 88,
+        "time": "2024-04-02T18:15:12.659994Z",
+        "temperature": "15",
+        "relative": "16",
+        "humidity": "81",
+        "pressure": "17",
+        "altitude": "17",
+        "oxygen": "53",
+        "level": "0"
+    },
+    {
+        "id": 89,
+        "time": "2024-04-02T18:15:12.661620Z",
+        "temperature": "42",
+        "relative": "64",
+        "humidity": "96",
+        "pressure": "23",
+        "altitude": "38",
+        "oxygen": "21",
+        "level": "1"
+    },
+    {
+        "id": 90,
+        "time": "2024-04-02T18:15:12.663263Z",
+        "temperature": "78",
+        "relative": "30",
+        "humidity": "38",
+        "pressure": "16",
+        "altitude": "21",
+        "oxygen": "4",
+        "level": "63"
+    },
+    {
+        "id": 91,
+        "time": "2024-04-02T18:15:12.664964Z",
+        "temperature": "51",
+        "relative": "77",
+        "humidity": "62",
+        "pressure": "68",
+        "altitude": "32",
+        "oxygen": "51",
+        "level": "2"
+    },
+    {
+        "id": 92,
+        "time": "2024-04-02T18:15:12.666650Z",
+        "temperature": "71",
+        "relative": "73",
+        "humidity": "82",
+        "pressure": "19",
+        "altitude": "30",
+        "oxygen": "60",
+        "level": "28"
+    },
+    {
+        "id": 93,
+        "time": "2024-04-02T18:15:12.668553Z",
+        "temperature": "23",
+        "relative": "66",
+        "humidity": "54",
+        "pressure": "2",
+        "altitude": "31",
+        "oxygen": "72",
+        "level": "24"
+    },
+    {
+        "id": 94,
+        "time": "2024-04-02T18:15:12.670588Z",
+        "temperature": "50",
+        "relative": "62",
+        "humidity": "16",
+        "pressure": "24",
+        "altitude": "47",
+        "oxygen": "15",
+        "level": "66"
+    },
+    {
+        "id": 95,
+        "time": "2024-04-02T18:15:12.672368Z",
+        "temperature": "32",
+        "relative": "1",
+        "humidity": "14",
+        "pressure": "78",
+        "altitude": "51",
+        "oxygen": "32",
+        "level": "74"
+    },
+    {
+        "id": 96,
+        "time": "2024-04-02T18:15:12.674038Z",
+        "temperature": "17",
+        "relative": "29",
+        "humidity": "64",
+        "pressure": "16",
+        "altitude": "71",
+        "oxygen": "54",
+        "level": "10"
+    },
+    {
+        "id": 97,
+        "time": "2024-04-02T18:15:12.675615Z",
+        "temperature": "36",
+        "relative": "86",
+        "humidity": "70",
+        "pressure": "43",
+        "altitude": "98",
+        "oxygen": "9",
+        "level": "91"
+    },
+    {
+        "id": 98,
+        "time": "2024-04-02T18:15:12.677169Z",
+        "temperature": "87",
+        "relative": "22",
+        "humidity": "82",
+        "pressure": "56",
+        "altitude": "67",
+        "oxygen": "30",
+        "level": "3"
+    },
+    {
+        "id": 99,
+        "time": "2024-04-02T18:15:12.678692Z",
+        "temperature": "79",
+        "relative": "49",
+        "humidity": "89",
+        "pressure": "79",
+        "altitude": "93",
+        "oxygen": "42",
+        "level": "76"
+    },
+    {
+        "id": 100,
+        "time": "2024-04-02T18:15:12.680512Z",
+        "temperature": "15",
+        "relative": "68",
+        "humidity": "97",
+        "pressure": "58",
+        "altitude": "98",
+        "oxygen": "63",
+        "level": "20"
+    }
+]``
+
+
+
+ {
+        "id": 1,
+        "time": "2024-04-02T18:15:12.516953Z",
+        "temperature": "68",
+        "relative": "76",
+        "humidity": "77",
+        "pressure": "65",
+        "altitude": "10",
+        "oxygen": "36",
+        "level": "36"
+    },
+    {
+        "id": 2,
+        "time": "2024-04-02T18:15:12.520016Z",
+        "temperature": "48",
+        "relative": "30",
+        "humidity": "69",
+        "pressure": "34",
+        "altitude": "86",
+        "oxygen": "85",
+        "level": "89"
+    },
+    {
+        "id": 3,
+        "time": "2024-04-02T18:15:12.522265Z",
+        "temperature": "35",
+        "relative": "52",
+        "humidity": "56",
+        "pressure": "58",
+        "altitude": "19",
+        "oxygen": "85",
+        "level": "74"
+    },
+    {
+        "id": 4,
+        "time": "2024-04-02T18:15:12.524484Z",
+        "temperature": "37",
+        "relative": "15",
+        "humidity": "47",
+        "pressure": "35",
+        "altitude": "27",
+        "oxygen": "69",
+        "level": "46"
+    },
+ import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <h1 style={{ textAlign: 'center' }}>CSC 206</h1>
+      <div className="card-container">
+        <div className="card">
+          <h2>Time</h2>
+          <p>Some context for Card 1.</p>
+          
+        </div>
+        <div className="card">
+          <h2>Temprature</h2>
+          <p>Some context for Card 2.</p>
+         
+        </div>
+        <div className="card">
+          <h2>Relative Humidity</h2>
+          <p>Some context for Card 3.</p>
+         
+        </div>
+        <div className="card">
+          <h2>Pressure</h2>
+          <p>Some context for Card 4.</p>
+         
+        </div>

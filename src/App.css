@@ -1,31 +1,17 @@
+.App {
+  text-align: center;
+}
 
-.card-container {
+.grid-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px; 
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
   padding: 20px;
 }
 
 .card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
   padding: 20px;
-  border: 1px solid #ddd;
-  background-color: #f9f9f9;
-}
-.card:nth-child(1) {
-  grid-column: 1 / span 1;
-  grid-row: 1 / span 1;
-}
-
-.card:nth-child(2) {
-  grid-column: 2 / span 1;
-  grid-row: 1 / span 1;
-}
-
-.card:nth-child(2) {
-  grid-column: 2 / span 1;
-  grid-row: 1 / span 1;
-}
-.card:nth-child(2) {
-  grid-column: 2 / span 1; 
-  grid-row: 1 / span 1; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
