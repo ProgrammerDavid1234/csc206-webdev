@@ -963,7 +963,7 @@
         "relative": "16",
         "humidity": "81",
         "pressure": "17",
-        "altitude": "17",
+        "altitude": "16",
         "oxygen": "53",
         "level": "0"
     },
